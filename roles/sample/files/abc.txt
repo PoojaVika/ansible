@@ -1,1 +1,2 @@
 this is devops class {{ name }}
+its a static file used to call the variables which defines in vars and default
